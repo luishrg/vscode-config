@@ -1,0 +1,49 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  //Font
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  //Editor
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": false,
+  "editor.tabSize": 2,
+  //Shell
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "explorer.confirmDelete": false,
+  "prettier.packageManager": "yarn",
+  "workbench.colorTheme": "Dracula",
+  "extensions.ignoreRecommendations": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "workbench.startupEditor": "newUntitledFile",
+  "liveServer.settings.donotVerifyTags": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.compactFolders": false,
+  //Theme
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#000000",
+    "activityBar.foreground": "#ffffff",
+    "activityBar.inactiveForeground": "#585858",
+    "sideBar.background": "#111111",
+    "sideBar.foreground": "#838383",
+    "sideBarTitle.foreground": "#ffffff",
+    "sideBarSectionHeader.background": "#050505",
+    "editor.background": "#1a1a1a",
+    "panel.background": "#1a1a1a",
+    "panel.border": "#2848ff",
+    "terminal.background": "#1a1a1a",
+    "panelTitle.activeBorder": "#2848ff",
+    "activityBar.activeBorder": "#2848ff",
+    "activityBarBadge.background": "#2848ff",
+    "tab.activeBorderTop": "#2848ff",
+    "breadcrumb.background": "#050505",
+    "breadcrumb.foreground": "#838383",
+    "editorLineNumber.foreground": "#838383",
+    "editorGroupHeader.tabsBackground": "#1a1a1a",
+    "tab.activeBackground": "#050505",
+    "tab.activeForeground": "#cfcfcf",
+    "tab.inactiveBackground": "#1a1a1a",
+    "tab.inactiveForeground": "#838383"
+  }
+}
